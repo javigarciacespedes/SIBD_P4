@@ -1,0 +1,24 @@
+{
+    "name": "nosql_pouchdb_sibd",
+    "version": "0.0.0",
+    "description": "autoCOREctor de la asignatura de BBDD (UPM)",
+    "disableHashCheck": true,
+    "keywords": [
+        "BBDD",
+        "NoSQL",
+        "self-assessment"
+    ],
+    "author": "ging",
+    "license": "GNU",
+    "info": {
+        "githubURL": "BBDD-ETSIT/nosql_pouchdb_sibd",
+        "serverUrl": "https://aat.dit.upm.es/",
+        "courseId": "903",
+        "assignmentId": "7856"
+    },
+    "dependencies": {
+        "autocorector": "^3.1.4",
+        "nano": "^9.0.1",
+        "serve": "^11.3.2"
+    }
+}
